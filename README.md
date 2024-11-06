@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# Curso de GIT, 2024
+# Curso de GIT
 =======
 # Curso de GIT Noviembre
 >>>>>>> ee2efb3 (Añadido el mes al README)
